@@ -89,7 +89,7 @@ using multiple sensors could conflict, especially when using both on-demand and 
 - `RawXYZ`: Raw accelerometer values in hardware units 
 - `CalculatedXYZ`: calculated value with : 9.81 / (16383.75 / 4.0)) * value
 
- <img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/349e9f09-18f3-4212-9586-f6150f907a4f" />
+ <img width="1400" height="600" alt="image" src="/png/Accelerometer.png" />
 
 
 
@@ -164,7 +164,7 @@ using multiple sensors could conflict, especially when using both on-demand and 
 ```
 - `ECG_value_millivolts`: ECG value in millivolts.
 
-  <img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/2470145f-691f-4e86-9bfe-90bfd01cddd2" />
+  <img width="1400" height="600" alt="image" src="/png/ECG.png" />
 
 
 
@@ -188,8 +188,8 @@ using multiple sensors could conflict, especially when using both on-demand and 
 - `ibi_list`: Inter-beat intervals in ms
 - `ibi_status_list`: Status of each IBI (0 = normal, -1 = error)
 
-  <img width="1400" height="500" alt="download (1)" src="https://github.com/user-attachments/assets/6540f87e-2153-4295-b187-e083f170fe10" />
-  <img width="1400" height="500" alt="download (2)" src="https://github.com/user-attachments/assets/aa162721-c825-417b-bf7f-d4c23a684c0e" />
+  <img width="1400" height="500" alt="image" src="/png/HR.png" />
+  <img width="1400" height="500" alt="image" src="/png/IBI.png" />
 
 
 
@@ -212,7 +212,7 @@ using multiple sensors could conflict, especially when using both on-demand and 
 - `IR,red`: PPG IR's, red's raw value.
 - `status`: Status of green, IR, red LED (0 = normal, -1 = error )
 
-  <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/059e584d-24bd-4792-9f15-08082f733437" />
+  <img width="1200" height="600" alt="image" src="/png/PPG.png" />
 
 
 - # 6. SpO2 (Oxygen Saturation)
