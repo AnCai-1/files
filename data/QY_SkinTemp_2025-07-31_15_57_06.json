@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1753995373434,
+    "datetime": "2025-07-31 15:56:13",
+    "status": 0,
+    "Ambient_temp_°": 35.816296,
+    "object_temp_°": 35.003727
+  },
+  {
+    "timestamp": 1753995433434,
+    "datetime": "2025-07-31 15:57:13",
+    "status": 0,
+    "Ambient_temp_°": 36.33377,
+    "object_temp_°": 35.01143
+  },
+  {
+    "timestamp": 1753995438437,
+    "datetime": "2025-07-31 15:57:18",
+    "status": 0,
+    "Ambient_temp_°": 36.506313,
+    "object_temp_°": 35.076393
+  },
+  {
+    "timestamp": 1753995443436,
+    "datetime": "2025-07-31 15:57:23",
+    "status": 0,
+    "Ambient_temp_°": 36.592484,
+    "object_temp_°": 35.11994
+  },
+  {
+    "timestamp": 1753995448432,
+    "datetime": "2025-07-31 15:57:28",
+    "status": 0,
+    "Ambient_temp_°": 36.613976,
+    "object_temp_°": 35.178684
+  },
+  {
+    "timestamp": 1753995453429,
+    "datetime": "2025-07-31 15:57:33",
+    "status": 0,
+    "Ambient_temp_°": 36.506123,
+    "object_temp_°": 35.209656
+  },
+  {
+    "timestamp": 1753995458426,
+    "datetime": "2025-07-31 15:57:38",
+    "status": 0,
+    "Ambient_temp_°": 36.35527,
+    "object_temp_°": 35.2284
+  },
+  {
+    "timestamp": 1753995463423,
+    "datetime": "2025-07-31 15:57:43",
+    "status": 0,
+    "Ambient_temp_°": 36.247414,
+    "object_temp_°": 35.228184
+  },
+  {
+    "timestamp": 1753995468420,
+    "datetime": "2025-07-31 15:57:48",
+    "status": 0,
+    "Ambient_temp_°": 36.16123,
+    "object_temp_°": 35.213715
+  },
+  {
+    "timestamp": 1753995473418,
+    "datetime": "2025-07-31 15:57:53",
+    "status": 0,
+    "Ambient_temp_°": 36.103657,
+    "object_temp_°": 35.198524
+  },
+  {
+    "timestamp": 1753995478413,
+    "datetime": "2025-07-31 15:57:58",
+    "status": 0,
+    "Ambient_temp_°": 36.06048,
+    "object_temp_°": 35.17379
+  },
+  {
+    "timestamp": 1753995483416,
+    "datetime": "2025-07-31 15:58:03",
+    "status": 0,
+    "Ambient_temp_°": 36.075043,
+    "object_temp_°": 35.147797
+  }
+]

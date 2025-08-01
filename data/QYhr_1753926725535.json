@@ -1,0 +1,604 @@
+[
+  {
+    "timestamp": 1753926665031,
+    "datetime": "2025-07-30 20:51:05",
+    "heart_rate": 108,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926666032,
+    "datetime": "2025-07-30 20:51:06",
+    "heart_rate": 109,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      549,
+      550
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926667030,
+    "datetime": "2025-07-30 20:51:07",
+    "heart_rate": 110,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      542,
+      577
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926668031,
+    "datetime": "2025-07-30 20:51:08",
+    "heart_rate": 110,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      524,
+      548
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926669032,
+    "datetime": "2025-07-30 20:51:09",
+    "heart_rate": 111,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      545
+    ],
+    "ibi_status_list": [
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926670033,
+    "datetime": "2025-07-30 20:51:10",
+    "heart_rate": 111,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      561,
+      551
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926671034,
+    "datetime": "2025-07-30 20:51:11",
+    "heart_rate": 112,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      533,
+      548
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926672035,
+    "datetime": "2025-07-30 20:51:12",
+    "heart_rate": 112,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      525,
+      522
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926673037,
+    "datetime": "2025-07-30 20:51:13",
+    "heart_rate": 113,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      525,
+      540
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926674038,
+    "datetime": "2025-07-30 20:51:14",
+    "heart_rate": 113,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      533,
+      523
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926675039,
+    "datetime": "2025-07-30 20:51:15",
+    "heart_rate": 113,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      532,
+      536
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926676040,
+    "datetime": "2025-07-30 20:51:16",
+    "heart_rate": 112,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      516
+    ],
+    "ibi_status_list": [
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926677041,
+    "datetime": "2025-07-30 20:51:17",
+    "heart_rate": 112,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      550,
+      525
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926678042,
+    "datetime": "2025-07-30 20:51:18",
+    "heart_rate": 112,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      527,
+      526
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926679064,
+    "datetime": "2025-07-30 20:51:19",
+    "heart_rate": 111,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      537,
+      525,
+      524,
+      532,
+      556,
+      547,
+      537,
+      532,
+      547,
+      557,
+      545,
+      559,
+      574,
+      563,
+      583,
+      594,
+      599,
+      585,
+      596,
+      579,
+      582,
+      570,
+      577,
+      565,
+      553,
+      557,
+      566,
+      558,
+      585,
+      567,
+      567,
+      588,
+      577,
+      564,
+      561,
+      569,
+      586,
+      573,
+      576,
+      571,
+      577,
+      583,
+      583
+    ],
+    "ibi_status_list": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926680064,
+    "datetime": "2025-07-30 20:51:20",
+    "heart_rate": 111,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926681064,
+    "datetime": "2025-07-30 20:51:21",
+    "heart_rate": 110,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926682064,
+    "datetime": "2025-07-30 20:51:22",
+    "heart_rate": 109,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926683064,
+    "datetime": "2025-07-30 20:51:23",
+    "heart_rate": 108,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926684064,
+    "datetime": "2025-07-30 20:51:24",
+    "heart_rate": 107,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926685064,
+    "datetime": "2025-07-30 20:51:25",
+    "heart_rate": 106,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926686064,
+    "datetime": "2025-07-30 20:51:26",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926687064,
+    "datetime": "2025-07-30 20:51:27",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926688064,
+    "datetime": "2025-07-30 20:51:28",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926689064,
+    "datetime": "2025-07-30 20:51:29",
+    "heart_rate": 106,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926690064,
+    "datetime": "2025-07-30 20:51:30",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926691064,
+    "datetime": "2025-07-30 20:51:31",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926692064,
+    "datetime": "2025-07-30 20:51:32",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926693064,
+    "datetime": "2025-07-30 20:51:33",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926694064,
+    "datetime": "2025-07-30 20:51:34",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926695064,
+    "datetime": "2025-07-30 20:51:35",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926696064,
+    "datetime": "2025-07-30 20:51:36",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926697064,
+    "datetime": "2025-07-30 20:51:37",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926698064,
+    "datetime": "2025-07-30 20:51:38",
+    "heart_rate": 104,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926699064,
+    "datetime": "2025-07-30 20:51:39",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926700064,
+    "datetime": "2025-07-30 20:51:40",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926701064,
+    "datetime": "2025-07-30 20:51:41",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926702064,
+    "datetime": "2025-07-30 20:51:42",
+    "heart_rate": 104,
+    "heart_rate_status": 1,
+    "ibi_list": [],
+    "ibi_status_list": []
+  },
+  {
+    "timestamp": 1753926703065,
+    "datetime": "2025-07-30 20:51:43",
+    "heart_rate": 105,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      571
+    ],
+    "ibi_status_list": [
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926704066,
+    "datetime": "2025-07-30 20:51:44",
+    "heart_rate": 106,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      556,
+      569
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926705068,
+    "datetime": "2025-07-30 20:51:45",
+    "heart_rate": 106,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      579,
+      564
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926706069,
+    "datetime": "2025-07-30 20:51:46",
+    "heart_rate": 107,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      569,
+      569
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926707070,
+    "datetime": "2025-07-30 20:51:47",
+    "heart_rate": 108,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      583
+    ],
+    "ibi_status_list": [
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926708071,
+    "datetime": "2025-07-30 20:51:48",
+    "heart_rate": 109,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      558,
+      569
+    ],
+    "ibi_status_list": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "timestamp": 1753926709072,
+    "datetime": "2025-07-30 20:51:49",
+    "heart_rate": 110,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      542,
+      555
+    ],
+    "ibi_status_list": [
+      -1,
+      -1
+    ]
+  },
+  {
+    "timestamp": 1753926710073,
+    "datetime": "2025-07-30 20:51:50",
+    "heart_rate": 111,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      540,
+      540
+    ],
+    "ibi_status_list": [
+      -1,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926711075,
+    "datetime": "2025-07-30 20:51:51",
+    "heart_rate": 112,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      546,
+      550
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  },
+  {
+    "timestamp": 1753926712076,
+    "datetime": "2025-07-30 20:51:52",
+    "heart_rate": 113,
+    "heart_rate_status": 1,
+    "ibi_list": [
+      538,
+      532
+    ],
+    "ibi_status_list": [
+      0,
+      0
+    ]
+  }
+]
