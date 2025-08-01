@@ -26,7 +26,7 @@ EDA (Electrodermal activity), MF-BIA (Multi frequency BIA) and Sweat loss are av
 
 ---
 
-## ✅ 3. System Architecture
+##  3. System Architecture
 
 ```
 [Galaxy Watch App]
@@ -43,7 +43,7 @@ EDA (Electrodermal activity), MF-BIA (Multi frequency BIA) and Sweat loss are av
 
 ---
 
-## ✅ 3. Sensor Behavior Observations
+##  3. Sensor Behavior Observations
 
 | Sensor | status | Notes |
 |-------------|-------------|-------------|
@@ -63,7 +63,7 @@ using multiple sensors could conflict, especially when using both on-demand and 
 
 ---
 
-## ✅ 4. Sample Collected Data
+##  4. Sample Collected Data
 
 # 1. Accelerometer
 
@@ -258,7 +258,7 @@ using multiple sensors could conflict, especially when using both on-demand and 
 ---
 
 
-## ✅ 5. References
+##  5. References
 
 - [Samsung Health Sensor SDK Documentation](https://developer.samsung.com/health/sensor/overview.html)
 - [HealthTrackerType API Reference](https://developer.samsung.com/health/sensor/api-reference/overview-summary.html)
