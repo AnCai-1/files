@@ -90,6 +90,9 @@ using multiple sensors could conflict, especially when using both on-demand and 
 - `CalculatedXYZ`: calculated value with : 9.81 / (16383.75 / 4.0)) * value
 
  <img width="1400" height="600" alt="image" src="/png/Accelerometer.png" />
+ Larger Dataset
+ <img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/58f827c7-db11-48da-b87b-1a4787d7418c" />
+
 
 
 
@@ -165,6 +168,9 @@ using multiple sensors could conflict, especially when using both on-demand and 
 - `ECG_value_millivolts`: ECG value in millivolts.
 
   <img width="1400" height="600" alt="image" src="/png/ECG.png" />
+  Larger Dataset
+  <img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/fc8d8982-8f23-4a26-bce7-2f400258bcf0" />
+
 
 
 
@@ -190,6 +196,12 @@ using multiple sensors could conflict, especially when using both on-demand and 
 
   <img width="1400" height="500" alt="image" src="/png/HR.png" />
   <img width="1400" height="500" alt="image" src="/png/IBI.png" />
+  Larger Dataset
+  <img width="1400" height="500" alt="image" src="https://github.com/user-attachments/assets/91918849-e389-425e-b647-bf2cb98d68db" />
+  <img width="1400" height="500" alt="image" src="https://github.com/user-attachments/assets/eec01fd0-5735-4ed9-b90c-2e23b2ab8a57" />
+
+
+
 
 
 
@@ -213,6 +225,9 @@ using multiple sensors could conflict, especially when using both on-demand and 
 - `status`: Status of green, IR, red LED (0 = normal, -1 = error )
 
   <img width="1200" height="600" alt="image" src="/png/PPG.png" />
+  Larger Dataset
+  <img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/3f8b87a7-7408-4fa2-9a96-bc3230f771e0" />
+
 
 
 - # 6. SpO2 (Oxygen Saturation)
